@@ -6,7 +6,8 @@ authors = ["Marcelo Feliciani <marcelo.feliciani@datalakers.com.br>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.11,<3.12"
+loguru = "^0.7.2"
 
 
 [build-system]
