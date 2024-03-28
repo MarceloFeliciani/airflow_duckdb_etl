@@ -16,7 +16,7 @@ def pipeline():
     primeira_atividade()
     segunda_atividade()
     terceira_atividade()
-    print("pipeline finalizou")
+    print("pipeline finalizou!")
 
 if __name__ == "__main__":
     pipeline()
